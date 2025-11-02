@@ -215,3 +215,4 @@ dataset/*
 !dataset/basic_encoded_bankruptcy_data.csv
 !dataset/encoded_bankruptcy_data.csv
 !dataset/basic_encoded_bankruptcy_test.csv
+!dataset/encoded_bankruptcy_test.csv

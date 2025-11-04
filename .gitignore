@@ -216,3 +216,5 @@ dataset/*
 !dataset/encoded_bankruptcy_data.csv
 !dataset/basic_encoded_bankruptcy_test.csv
 !dataset/encoded_bankruptcy_test.csv
+!dataset/df1_matches.csv
+!dataset/american_bankruptcy_dataset.csv
